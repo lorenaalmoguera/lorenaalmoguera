@@ -1,9 +1,9 @@
 ### Hi, I'm Lorena !
 *Here I will share the projects I've done in University as well as on my own free time!*</br></br>
-👩 Soltuions Architect Intern at Amazon Web Services starting on June 16th.<br/>
 👩🏻‍💻 I study [Computer Science](https://www.umh.es/contenido/Estudios/:tit_g_192_S8/datos_es.html) at Miguel Hernández University, Spain.<br/>
 🗣️ I also studied [Modern Languages](https://www.birmingham.ac.uk/undergraduate/courses/lang/modern-languages) for two years at the University of Birmingham, UK. ~~(2018-2020 withdrew)~~<br/>
 ☕ Feel free to buy me a [Kofi](https://ko-fi.com/marisola)!<br/>
+👩 Last year I was a Soltuions Architect Intern at Amazon Web Services!<br/>
 
 ## 🐱‍💻 Coding Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
