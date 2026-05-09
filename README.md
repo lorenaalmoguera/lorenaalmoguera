@@ -1,6 +1,6 @@
 ### Hi, I'm Lorena !
 *Here I will share the projects I've done in University as well as on my own free time!*</br></br>
-👩🏻‍💻 I study [Computer Science](https://www.umh.es/contenido/Estudios/:tit_g_192_S8/datos_es.html) at Miguel Hernández University, Spain.<br/>
+👩🏻‍💻 I study [Computer Engineering in Information Technologies](https://www.umh.es/contenido/Estudios/:tit_g_192_S8/datos_es.html) at Miguel Hernández University, Spain.<br/>
 🗣️ I also studied [Modern Languages](https://www.birmingham.ac.uk/undergraduate/courses/lang/modern-languages) for two years at the University of Birmingham, UK. ~~(2018-2020 withdrew)~~<br/>
 ☕ Feel free to buy me a [Kofi](https://ko-fi.com/marisola)!<br/>
 👩 Last year I was a Soltuions Architect Intern at Amazon Web Services!<br/>
