@@ -1,9 +1,6 @@
 # Lorena Almoguera
 
 **AWS Certified Solutions Architect – Associate · AWS Certified AI Practitioner**
-# Lorena Almoguera
-
-**AWS Certified Solutions Architect – Associate · AWS Certified AI Practitioner**
 
 **Data Software Developer at ALTIA · Computer Engineering student**
 
