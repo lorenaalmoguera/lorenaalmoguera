@@ -8,6 +8,8 @@ I work in data and software development, with experience in DevOps projects, kno
 
 This profile brings together my university work, personal software projects, and the things I am learning along the way.
 
+I also run [**Coding with Lorena**](https://www.youtube.com/@CodingWithLorena), a YouTube channel where I teach programming and share practical coding tutorials, including C and parallel computing concepts in Spanish.
+
 [LinkedIn](https://www.linkedin.com/in/lorena-almoguera-romero) · [GitHub](https://github.com/lorenaalmoguera)
 
 ## Technical Skills
