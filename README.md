@@ -4,22 +4,24 @@
 
 **Data Software Developer at ALTIA · Computer Engineering student**
 
-I work in data and software development, with a background in cloud solutions and an interest in quantum computing. I was a **Data Engineering Intern at ALTIA**, working on DevOps projects, and have since been hired as a **Data Software Developer**. Previously, I was a **Solutions Architect Intern at Amazon Web Services (AWS)**.
+I work in data and software development, with experience in DevOps projects, knowledge of **AWS and Microsoft Azure**, and an interest in quantum computing. I was a **Data Engineering Intern at ALTIA** and have since been hired as a **Data Software Developer**. Previously, I was a **Solutions Architect Intern at Amazon Web Services (AWS)**.
 
 This profile brings together my university work, personal software projects, and the things I am learning along the way.
 
 [LinkedIn](https://www.linkedin.com/in/lorena-almoguera-romero) · [GitHub](https://github.com/lorenaalmoguera)
 
-## Technologies I work with
+## Technical Skills
 
-My recent work spans professional, academic, and personal projects:
+My technical background combines professional experience, academic work, and personal projects:
 
 | Area | Technologies and context |
 | --- | --- |
+| Cloud | AWS and Microsoft Azure; cloud architecture knowledge supported by my AWS certifications and Solutions Architect internship |
+| DevOps | Knowledge of DevOps practices and experience working on DevOps projects during my internship at ALTIA |
 | Python | Personal applications, API integration, data processing, and quantum computing projects |
 | Databases | SQLite for persistent application data; Microsoft SQL Server in my recent work |
 | C | University coursework, pointers, memory management, file handling, and parallel computing studies |
-| Web interfaces | JavaScript, HTML, and CSS in my desktop application's local interface |
+| Web development | Knowledge of TypeScript; JavaScript, HTML, and CSS used in my desktop application's local interface |
 | Quantum computing | Qiskit for circuit construction and simulation in my final-year project |
 | Development and documentation | Git, GitHub, Markdown, and LaTeX |
 
